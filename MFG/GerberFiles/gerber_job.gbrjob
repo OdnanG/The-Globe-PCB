@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-18T07:25:56Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.53,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "ENGI301_MID_02"
+        },
+        "Owner": "og8 og8 <og8@rice.edu>",
+        "Size": {
+            "X": 129.54,
+            "Y": 78.74
+        }
+    }
+}
